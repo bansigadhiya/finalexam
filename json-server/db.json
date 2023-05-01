@@ -1,0 +1,88 @@
+{
+    "products": [
+        {   
+            "id" : "1",
+            "name": "Iphone",
+            "date": "10/4/2023",
+            "detail": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.",
+            "price": "40000 Rs."
+        },
+        {
+            "id" : "2",
+            "name": "Tv",
+            "date": "12/4/2023",
+            "detail": "TV is the electronic delivery of moving images and sound from a source to a receiver.By extending the senses of vision and hearing beyond the limits of physical distance.",
+            "price": "30000 Rs."
+        },
+        {
+            "id" : "3",
+            "name": "Shoes",
+            "date": "13/4/2023",
+            "detail": "A shoe is an item of footwear, intended to protect, and comfort the human foot. They are often worn with a sock. Footwears protect the feet and give stability to the body.",
+            "price": "3000 Rs."
+        },
+        {
+            "id" : "4",
+            "name": "Sunglasses",
+            "date": "12/4/2023",
+            "detail": "The most important benefit of wearing sunglasses is that they protect your eyes from ultraviolet (UV) light. UV light can have harmful effects on the eyelid, cornea, lens and retina.",
+            "price": "3000 Rs."
+        },
+        {
+            "id" : "5",
+            "name": "T-shirt",
+            "date": "15/4/2023",
+            "detail": "T-shirts are usually made from cotton fabric or fabric which contains a mix of cotton and polyester. T-shirts are usually considered a casual type of clothing.",
+            "price": "500 Rs."
+        },
+        {
+            "id" : "6",
+            "name": "Watch",
+            "date": "13/4/2023",
+            "detail": "watch, portable timepiece that has a movement driven either by spring or by electricity and that is designed to be worn or carried in the pocket.",
+            "price": "2000 Rs."
+        },
+        {
+            "id" : "7",
+            "name": "Jeans",
+            "date": "14/4/2023",
+            "detail": "The denim fabric itself is really the feature that's most important when it comes to durability. It's a cotton twill that traditionally has an indigo-dyed warp and a white weft.",
+            "price": "800 Rs."
+        },
+        {
+            "id" : "7",
+            "name": "Shirt",
+            "date": "17/4/2023",
+            "detail": "A shirt is a piece of clothing that you wear on the upper part of your body. Shirts have a collar, sleeves, and buttons down the front.",
+            "price": "300 Rs."
+        },
+        {
+            "id" : "8",
+            "name": "Shocks",
+            "date": "16/4/2023",
+            "detail": "Shock is a life-threatening condition that occurs when the body is not getting enough blood flow. Lack of blood flow means the cells and organs do not get enough.",
+            "price": "50 Rs."
+        },
+        {
+            "id" : "9",
+            "name": "Lipstick",
+            "date": "18/4/2023",
+            "detail": "lipsticks are made from three basic ingredients: wax, oil, and pigment. Pigment is the color. Waxes provide shape and a spreadable texture.",
+            "price": "500 Rs."
+        },
+        {
+            "id" : "10",
+            "name": "Bag",
+            "date": "20/4/2023",
+            "detail": "A bag is a kind of soft container. It can hold or carry things. It may be made from cloth, leather, plastic, or paper.",
+            "price": "800 Rs."
+        },
+        {
+            "id" : "11",
+            "name": "Pen",
+            "date": "20/4/2023",
+            "detail": "They can be very useful, and whether you're at school, home, office or college, they're essential for drafting documents, jotting down notes, writing essays or giving examinations.",
+            "price": "20 Rs."
+        }
+    ]
+}
